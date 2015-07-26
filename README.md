@@ -1,0 +1,2 @@
+# healthcare-analysis
+The aim of the project is data analysis in Healthcare. I have developed a web based application in which the user enters the ICD9_DX_Code (i.e. Diagnosis code). The application outputs the frequency of the diagnosis code coupled with a particular diagnosis code, frequency of diagnosis code with other codes and the ratio of both the frequencies in the tabular format. We have developed this application in PHP and the data was provided by my professor. I imported the complete data in MYSQL database and connected to PHP script.
